@@ -1,0 +1,40 @@
+{
+  "pages": [
+    "pages/word/word",
+    "pages/image/image",
+    "pages/voice/voice",
+    "pages/video/video",
+    "pages/detail/detail"
+  ],
+  "tabBar": {
+    "color": "#a9b7b7",
+    "selectedColor": "blue",
+    "borderStyle": "white",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/word/word",
+        "text": "段子"
+      
+      },
+      {
+        "pagePath": "pages/image/image",
+        "text": "图片"
+       
+      },
+      {
+        "pagePath": "pages/voice/voice",
+        "text": "声音"
+      },
+      {
+        "pagePath": "pages/video/video",
+        "text": "我的"
+      }
+    ]
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#eb4f38",
+    "navigationBarTextStyle": "white"
+  }
+}
